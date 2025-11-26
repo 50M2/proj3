@@ -6,10 +6,16 @@ function initializeMap() {
     zoom: 14,
   });
 
-  const marker = new google.maps.Marker({
+  const sanDiegoMarker = new google.maps.Marker({
     position: focus,
     map: map,
     title: "Naval Base San Diego",
+  });
+
+  const illinoisTechMarker = new google.maps.Marker({
+    position: { lat: 41.8367, lng: -87.6260 },
+    map: map,
+    title: "Illinois Institute of Technology",
   });
 
 }
