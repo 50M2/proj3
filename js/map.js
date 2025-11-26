@@ -18,4 +18,11 @@ function initializeMap() {
     title: "Illinois Institute of Technology",
   });
 
+  const questionsButton = document.getElementById("mapButton");
+  questionsButton.addEventListener("click", handeClick);
+
+  function handeClick() {
+    //display message when button is clicked
+    alert("If you have any questions, contact me at tboyne@hawk.illinoistech.edu");
+  }
 }
