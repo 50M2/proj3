@@ -26,17 +26,8 @@ margin-bottom: 2rem;
   margin-bottom: 1rem;
 }
 
-#section12 { 
-  background-color: black;
-  color: yellow;
-  text-align: center;
-  border: 4rem soild black;
-  padding: 1rem;
-  width: 90%;
+#map {
   height: 500px;
-  margin-left: 2rem;
-  margin-right: 2rem;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+  width: 90%;
 }
 
