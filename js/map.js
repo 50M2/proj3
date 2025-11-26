@@ -9,7 +9,7 @@ function initializeMap() {
   const marker = new google.maps.Marker({
     position: center_focus,
     map: map,
-    title: "An interesting relic of the past",
+    title: "Naval Base San Diego",
   });
 
 }

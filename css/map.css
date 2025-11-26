@@ -26,14 +26,14 @@ margin-bottom: 2rem;
   margin-bottom: 1rem;
 }
 
-#section12 { 
+#map { 
   background-color: black;
   color: yellow;
   text-align: center;
-  border: 1rem soild black;
+  border: 4rem soild black;
   padding: 1rem;
-  width: auto;
-  height: auto;
+  width: 90%;
+  height: 500px;
   margin-left: 2rem;
   margin-right: 2rem;
   margin-bottom: 2rem;
